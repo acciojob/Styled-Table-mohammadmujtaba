@@ -1,1 +1,15 @@
 /* your code */
+#table{
+	border-radius : 10px;
+}
+#Header {
+	background: blueviolet;
+}
+
+.First {
+	background:gray;
+}
+
+.Second {
+	background:gold;
+}
